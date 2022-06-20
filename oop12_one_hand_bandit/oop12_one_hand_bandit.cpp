@@ -8,5 +8,4 @@ int main()
 {
 	Automat a(7);
 	a.menu();
-
 }
